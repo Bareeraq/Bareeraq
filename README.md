@@ -1,75 +1,74 @@
-<br clear="both">
+<h1 align="center">Hi 👋, I'm Bareera Qureishi</h1>
+<h3 align="center">Final-year B.Tech CSE student | Web & ML Developer | Tech Enthusiast</h3>
 
-<h2 align="left">Hi 👋! My name is Bareera Qureishi and I'm a CS final year student, from India.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F76D57&center=true&vCenter=true&width=435&lines=Crafting+AI-Powered+Web+Apps;Loves+Python%2C+Flask+%26+Cloud;Open+Source+Contributor+%7C+Forever+Learning" alt="Typing SVG" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-</div>
+### 🔎 About Me
 
-###
+- 🌱 Currently exploring **Full-Stack Development**, **Machine Learning**, and **Cloud Platforms**
+- 🧠 Building smart solutions like [AI-Cruiter](https://github.com/Bareeraq/AI-cruiter) and [Sentiment Analysis Tool](https://github.com/Bareeraq/sentiment-analysis-tool)
+- 🛠️ Tools I work with: `Python`, `Flask`, `MongoDB`, `JavaScript`, `AWS`, `MySQL`, `OpenCV`
+- 📚 Final Year @ **VIT Bhopal University**, CGPA: `8.66`
+- 🎓 Certified in *Cloud Computing*, *Marketing Analytics*, and pursuing *Java Foundation*, *IBM DevOps & Agile*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bareeraq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bareeraq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧰 Tech Stack
 
-<br clear="both">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flask,mysql,mongodb,aws,git,github,vscode,opencv,tensorflow" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bareera-qureishi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="bareeraqrsh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+### 🚀 Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bareeraq/Bareeraq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bareeraq/Bareeraq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bareeraq/Bareeraq/output/pacman-contribution-graph.svg">
-</picture>
+🌐 **[Gemini API-Based Recruitment System](https://github.com/Bareeraq/AI-cruiter)**  
+🔹 Flask + MongoDB + Gemini API | Smart matching system with 200+ candidate profiling  
+🔹 Integrated prompt engineering to generate automatic reports
 
-###
+📊 **[Sentiment Analysis Web App](https://github.com/Bareeraq/sentiment-analysis-tool)**  
+🔹 Built using HuggingFace DistilBERT (92% accuracy), Flask backend, and deployed on Hugging Face Spaces  
+🔹 Live run tracking with wandb.ai  
+🔗 [View Model on Hugging Face](https://huggingface.co/bareeraqrsh/Sentiment-analysis-tool)
+
+🎓 **[Face Recognition Attendance System](https://github.com/Bareeraq/Face_recognition_system)**  
+🔹 Tkinter + OpenCV + MySQL | Tracks 500+ students  
+🔹 Real-time facial recognition and record maintenance
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bareeraq&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=Bareeraq&theme=radical" width="47%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bareeraq&layout=compact&theme=radical" width="47%"/>
+</p>
+
+---
+
+### 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bareera%20Qureishi-blue?logo=linkedin)](https://www.linkedin.com/in/bareera-qureishi/)
+[![Gmail](https://img.shields.io/badge/Gmail-bareera.qureishi7@gmail.com-red?logo=gmail)](mailto:bareera.qureishi7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Bareeraq-black?logo=github)](https://github.com/Bareeraq)
+
+---
+
+<details>
+  <summary>📌 Resume & Certificates</summary>
+
+- 📄 [View My Resume](https://drive.google.com/file/d/1-ZT1L3pQ3Ynb1yDOS9hOEeKhQRlFWH74/view?usp=sharing)
+- 📃 [Cloud Computing - NPTEL](https://drive.google.com/file/d/127nCS9yUsB7K8TPdUx0lehtelpC-foKc/view?usp=sharing)
+- 📃 [Marketing Analytics - NPTEL](https://drive.google.com/file/d/14tDyFuD4_t45gnlIWNQxj_Yn82vTKuMn/view?usp=sharing)
+
+</details>
+
+---
+
+✨ _“Learning is a journey — and I code along the way.”_  
