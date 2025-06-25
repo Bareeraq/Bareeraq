@@ -9,11 +9,11 @@
 
 ### 🔎 About Me
 
-- 🌱 Currently exploring **Full-Stack Development**, **Machine Learning**, and **Cloud Platforms**
+- 🌱 Currently exploring **Full-Stack Development**, **AI & Computer Vision**, and **DevOps**
 - 🧠 Building smart solutions like [AI-Cruiter](https://github.com/Bareeraq/AI-cruiter) and [Sentiment Analysis Tool](https://github.com/Bareeraq/sentiment-analysis-tool)
 - 🛠️ Tools I work with: `Python`, `Flask`, `MongoDB`, `JavaScript`, `AWS`, `MySQL`, `OpenCV`
 - 📚 Final Year @ **VIT Bhopal University**, CGPA: `8.66`
-- 🎓 Certified in *Cloud Computing*, *Marketing Analytics*, and pursuing *Java Foundation*, *IBM DevOps & Agile*
+- 🎓 Certified in *IBM DevOps, Agile & Design Thinking*, *Cloud Computing*, *Marketing Analytics*, and pursuing *Java Foundations Associate- Oracle*.
 
 ---
 
@@ -66,7 +66,9 @@
 - 📄 [View My Resume](https://drive.google.com/file/d/1-ZT1L3pQ3Ynb1yDOS9hOEeKhQRlFWH74/view?usp=sharing)
 - 📃 [Cloud Computing - NPTEL](https://drive.google.com/file/d/127nCS9yUsB7K8TPdUx0lehtelpC-foKc/view?usp=sharing)
 - 📃 [Marketing Analytics - NPTEL](https://drive.google.com/file/d/14tDyFuD4_t45gnlIWNQxj_Yn82vTKuMn/view?usp=sharing)
-
+- 📃 [DevOps, Agile & Design Thinking - IBM]
+- 📃 [DevOps V2 - IBM]
+  
 </details>
 
 ---
