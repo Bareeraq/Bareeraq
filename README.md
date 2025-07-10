@@ -63,11 +63,11 @@
 <details>
   <summary>📌 Resume & Certificates</summary>
 
-- 📄 [View My Resume](https://github.com/Bareeraq/My_Resume/blob/main/Bareera_Qureishi_Resume.pdf)
+- 📄 [View My Resume]()
 - 📃 [Cloud Computing - NPTEL](https://drive.google.com/file/d/127nCS9yUsB7K8TPdUx0lehtelpC-foKc/view?usp=sharing)
 - 📃 [Marketing Analytics - NPTEL](https://drive.google.com/file/d/14tDyFuD4_t45gnlIWNQxj_Yn82vTKuMn/view?usp=sharing)
-- 📃 [DevOps, Agile & Design Thinking - IBM]
-- 📃 [DevOps V2 - IBM]
+- 📃 [DevOps, Agile & Design Thinking - IBM](https://drive.google.com/file/d/1e6tByp0IszkvBFbKOJCTZ2HG_rOY8Y2n/view?usp=sharing)
+- 📃 [DevOps V2 - IBM](https://drive.google.com/file/d/1Vw2gZT-lzRwnenUXBtABQw0StM6fGaUs/view?usp=sharing)
   
 </details>
 
