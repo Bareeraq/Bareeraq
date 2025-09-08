@@ -11,7 +11,7 @@
 
 - 🌱 Currently exploring **Full-Stack Development**, **AI & Computer Vision**, and **DevOps**
 - 🧠 Building smart solutions like [AI-Cruiter](https://github.com/Bareeraq/AI-cruiter) and [Sentiment Analysis Tool](https://github.com/Bareeraq/sentiment-analysis-tool)
-- 🛠️ Tools I work with: `Python`, `Flask`, `MongoDB`, `JavaScript`, `AWS`, `MySQL`, `OpenCV`
+- 🛠️ Tools I work with: `Python`, `Flask`, `MongoDB`, `JavaScript`, `AWS`, `MySQL`, `OpenCV`, `Tkinter`
 - 📚 Final Year @ **VIT Bhopal University**
 - 🎓 Certified in *IBM DevOps, Agile & Design Thinking*, *Cloud Computing*, *Marketing Analytics*, and *Java Foundations Associate- Oracle*.
 
