@@ -63,7 +63,7 @@
 <details>
   <summary>📌 Resume & Certificates</summary>
 
-- 📄 [View My Resume]([https://drive.google.com/file/d/1jtk7fbXeSA6H9dpTOjy9sC_iWekMBL4n/view?usp=sharing](https://github.com/Bareeraq/Bareera_Qureishi_Resume/blob/main/Bareera_Qureishi_Resume.pdf))
+- 📄 [View My Resume](https://github.com/Bareeraq/Bareera_Qureishi_Resume/blob/main/Bareera_Qureishi_Resume.pdf)
 - 📃 [Java Foundation Associate - Oracle](https://drive.google.com/file/d/107-GlYPxLgUwKBXdP44jfJNP_CD-h8al/view?usp=sharing)
 - 📃 [DevOps, Agile & Design Thinking - IBM](https://drive.google.com/file/d/1e6tByp0IszkvBFbKOJCTZ2HG_rOY8Y2n/view?usp=sharing)
 - 📃 [DevOps V2 - IBM](https://drive.google.com/file/d/1Vw2gZT-lzRwnenUXBtABQw0StM6fGaUs/view?usp=sharing)
